@@ -1,0 +1,15 @@
+userName: maraficherry_bzDWLo
+accessKey: WjJgkSCYd8nNn3cTFKp3
+platforms:
+  - deviceName: Samsung Galaxy S23 Ultra
+    osVersion: 13.0
+    app: bs://60c3b074f98d2304e4c6765c178735008c9b412b
+    browserName: chrome
+    deviceOrientation: portrait
+browserstackLocal: true
+buildName: bstack-demo
+buildIdentifier: ${BUILD_NUMBER}
+projectName: AndroidApp
+debug: true
+networkLogs: true
+consoleLogs: info
